@@ -1,0 +1,1 @@
+chrome-extension://camppjleccjaphfdbohjdohecfnoikec/assets/client-27c047d0.js
